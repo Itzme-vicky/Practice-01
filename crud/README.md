@@ -1,3 +1,1 @@
-
-Hi Vignesh How are you doing?
-
+Practice project for Product CRUD using EF Core.
